@@ -1,5 +1,8 @@
-![Modal window](https://github.com/catherineisonline/modal-window/blob/main/images/project-preview-1.png?raw=true)
-![Modal window](https://github.com/catherineisonline/modal-window/blob/main/images/project-preview-2.png?raw=true)
+Screenshots
+---------------------
+
+<img width="600" alt="project-preview-1" src="https://github.com/adriiiiiix/modal-window/assets/88784785/a1eda568-d630-4b54-9e6a-6aed9e91f406">
+<img width="600" alt="project-preview-2" src="https://github.com/adriiiiiix/modal-window/assets/88784785/dadecf3d-9d73-4772-b255-2cd4b6fb6d06">
 
 # Modal window (pop-up) component made with CSS, HTML &amp; JavaScript
 
